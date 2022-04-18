@@ -1,0 +1,39 @@
+.more {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+.cardInformatica {
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+    border-radius: 12px;
+    background-color: rgba(240, 248, 255, 0.241);
+    padding-top: 3px;
+    padding-bottom: 20px;
+    width: 60%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 5px;
+    
+
+  }
+
+  .voluntariado {
+      padding-bottom: 50px;
+      margin-bottom: 50px;
+  }
+
+  .idiomas {
+      margin-top: 10px;
+      margin-bottom: 10px;
+  }
+
+  .underline {
+      text-decoration: underline solid black 1px;
+  }
